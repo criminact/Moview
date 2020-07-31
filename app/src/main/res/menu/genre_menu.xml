@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionGen"
+        android:title="Action"/>
+
+    <item
+        android:id="@+id/adventureGen"
+        android:title="Adventure"/>
+
+    <item
+        android:id="@+id/animationGen"
+        android:title="Animation"/>
+
+    <item
+        android:id="@+id/comedyGen"
+        android:title="Comedy"/>
+
+    <item
+        android:id="@+id/crimeGen"
+        android:title="Crime"/>
+
+    <item
+        android:id="@+id/documentaryGen"
+        android:title="Documentary"/>
+
+
+    <item
+        android:id="@+id/dramaGen"
+        android:title="Drama"/>
+
+
+    <item
+        android:id="@+id/familyGen"
+        android:title="Family"/>
+
+    <item
+        android:id="@+id/fantasyGen"
+        android:title="Fantasy"/>
+
+    <item
+        android:id="@+id/historyGen"
+        android:title="History"/>
+
+    <item
+        android:id="@+id/horrorGen"
+        android:title="Horror"/>
+
+    <item
+        android:id="@+id/musicGen"
+        android:title="Music"/>
+
+    <item
+        android:id="@+id/mysteryGen"
+        android:title="Mystery"/>
+
+    <item
+        android:id="@+id/romanceGen"
+        android:title="Romance"/>
+
+    <item
+        android:id="@+id/scifiGen"
+        android:title="Sci-fi"/>
+
+    <item
+        android:id="@+id/thrillerGen"
+        android:title="Thriller"/>
+
+    <item
+        android:id="@+id/warGen"
+        android:title="War"/>
+
+</menu>

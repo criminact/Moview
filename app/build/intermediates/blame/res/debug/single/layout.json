@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/xriminact/Downloads/projjects/brief/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_movie_list.xml",
+        "source": "/home/xriminact/Downloads/projjects/brief/app/src/main/res/layout/fragment_movie_list.xml"
+    },
+    {
+        "merged": "/home/xriminact/Downloads/projjects/brief/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/movie_card.xml",
+        "source": "/home/xriminact/Downloads/projjects/brief/app/src/main/res/layout/movie_card.xml"
+    }
+]
